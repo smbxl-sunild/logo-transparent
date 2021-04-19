@@ -1,0 +1,19 @@
+html{
+  background:#000;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+h1{
+  color:transparent;
+   height:100%;
+  width:100%;
+  font-size:420px;
+  text-align:center;
+  background-image:url("https://images.unsplash.com/photo-1552844151-983069d32950?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
+  background-clip:text;
+  -webkit-background-clip:text;
+  background-size:contain;
+  font-family:sans-serif;
+}
